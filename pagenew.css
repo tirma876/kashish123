@@ -1,0 +1,258 @@
+body { 
+	margin: 0;
+	text-align: center;
+	color: #40514E;
+	background-color: #4051;
+}
+img.logo1 {
+    width: 5%;
+    float: left;
+    margin-left: 32px;
+    margin-top: 5px;
+}
+.mm{
+	text-align: center; 
+}
+
+.rps {
+    font-size: 40px;
+    margin-top: 15px;
+}
+
+p.cs {
+    width: 50%;
+    float: left;
+    margin: -4% -1px -7px 0px;
+}
+p.sc {
+    width: 50%;
+    margin: 0%;
+}
+
+.leftlog {
+    float: right;
+    text-align: left;
+    margin: 1% 39% -13% 0%;
+    font-size: 189%;
+    color: wheat;
+}
+
+.rightlog {
+    float: right;
+    text-align: right;
+    margin: 0px 40px 0px 0px;
+    width: 50%;
+}
+
+.icon-bar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+  position: fixed;
+}
+
+.icon-bar a {
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+.kashishwebpage{
+	margin-top: 10%;
+}
+
+hr{
+	border: dotted black 10px; 
+	border-bottom: none;
+	width: 50px;
+	margin: 100px auto;
+}
+
+h1 {
+	color: red;
+	margin: 0 auto 0 auto;
+    font-family: cursive;
+	top: 50%;
+	font-size: 90px;
+}
+h2{
+	color: #66BFBF;
+	font-size: 90px;
+}
+h3{
+	font-family: 'Montserrat' , sans-serif;
+	font-size: 90px;
+}
+.pahra{
+	font-size: 90px;
+	color: #66BFBF;
+}
+
+.profile{
+	background-image: url('kpics/43.jpg');
+	padding: 55px;
+}
+
+.top-cloud{
+	width: 251px;
+    height: 252px;
+    
+    
+    float: left;
+     border-radius: 100%;
+     top: s1px;
+}
+.bottom-cloud{
+	width: 251px;
+    height: 252px;
+   
+    
+    float: right;
+     border-radius: 100%;
+     top: 1px;
+}
+
+.bigpic {
+    margin: 10px;
+    width: 98%;
+    height: 115%;
+}
+.secondpic{
+	width: 48%;
+	height: 100%;
+	float: left;
+	margin: 1%;
+}
+.threepic{
+    width: 50%;
+	height: 50%;
+}
+.forpic{
+	width: 50%;
+	height: 50%;
+}
+.skill-row{
+	width: 50%;
+	margin: auto;
+	
+	line-height: 2;
+}
+.top-container{
+  background-color: ;
+  
+  padding-top: auto;
+  
+}
+.middle-container{
+	width: 200px;
+	height: 200px;
+
+}
+.bottom-container{
+	background-color:#66BFBF;
+	padding: 50px 0 20px; 
+	margin: auto;
+
+}
+.pro{
+	text-decoration: underline;
+}
+
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  
+}
+
+.pagination a.active {
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.pagination a:hover (.active) {
+  background-color: #ddd;
+  border-radius: 5px;
+  
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999A);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999A);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999A);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999A);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999A);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #11CDD4 2px;
+  text-decoration: none;
+  margin: 10%;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+} 
+
+.pagination {
+    display: inline-block;
+    margin: 5%;
+} 
+
+.fa {
+  padding: 20px 2%;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  font-weight: bold;
+}
+
+.fa:hover {
+    opacity: 0.10;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.madeby{
+	color: whitesmoke;
+}
